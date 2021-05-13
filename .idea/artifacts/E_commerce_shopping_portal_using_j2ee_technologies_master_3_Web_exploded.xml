@@ -2,10 +2,10 @@
   <artifact type="exploded-war" name="E-commerce-shopping-portal-using-j2ee-technologies-master 3:Web exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/E_commerce_shopping_portal_using_j2ee_technologies_master_3_Web_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="E-commerce-shopping-portal-using-j2ee-technologies-master 3/web/Web" />
+      <element id="javaee-facet-resources" facet="Gadget_Shop/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="E-commerce-shopping-portal-using-j2ee-technologies-master 3" />
+          <element id="module-output" name="Gadget_Shop" />
         </element>
       </element>
     </root>
