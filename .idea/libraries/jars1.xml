@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="jars1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/catalina-storeconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jaspic-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-i18n-ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-i18n-es.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-i18n-fr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/catalina-tribes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/annotations-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-util-scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/ecj-4.7.3a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/tomcat-jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/mysql-connector-java-5.1.17-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
