@@ -25,7 +25,7 @@
 		</nav>
 	</header>
 	
-	 <sql:setDataSource user="root" password="" driver="com.mysql.jdbc.Driver" url="jdbc:mysql://localhost:3306/myproject" var="ds"/>
+	 <sql:setDataSource user="root" password="muhammadulamin" driver="com.mysql.jdbc.Driver" url="jdbc:mysql://localhost:3306/myproject" var="ds"/>
 	 
 	  <sql:query var="result" dataSource="${ds }">
  
@@ -64,7 +64,7 @@
 		 </c:forEach>
 		 </div>
 	 <footer>
-		<div class="footer"> &copy; 2018 Copyright:
+		<div class="footer"> &copy; 2021 Copyright:
 	      Tiazon.com
 	    </div>
 	</footer>

@@ -90,7 +90,7 @@
 
 
 	<footer>
-		<div class="footer"> &copy; 2018 Copyright:
+		<div class="footer"> &copy; 2021 Copyright:
 	      <a href="Controller?page=index"> Tiazon.com</a>
 	    </div>
 	</footer>

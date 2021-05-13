@@ -77,7 +77,7 @@
 		</nav>
 	</header>
 <!-- Navigation -->
-<<style>
+<style>
 	.btn:hover{
 		font-size: 30px;
 		color: #10d3c9 !important;}

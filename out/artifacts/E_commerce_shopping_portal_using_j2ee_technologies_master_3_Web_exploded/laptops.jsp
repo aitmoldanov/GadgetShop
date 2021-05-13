@@ -88,7 +88,12 @@
  		</div>
  	</div>
 
-<%@ include file="/footer.jsp" %>
+
+	<footer>
+		<div class="footer"> &copy; 2021 Copyright:
+	      <a href="Controller?page=index"> Tiazon.com</a>
+	    </div>
+	</footer>
 	
 </body>
 </html>

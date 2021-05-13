@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/V20210513231115__Insert_User.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/V20210513231139__Insert_Product.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/V20210513231227__Init_DB.sql" dialect="GenericSQL" />
+  </component>
+</project>

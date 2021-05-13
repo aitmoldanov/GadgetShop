@@ -64,7 +64,11 @@
 	 	</p>
 	 </form>
 	<br><br><br>
-<%@ include file="/footer.jsp" %>
+	<footer style="position: fixed;bottom: 0;left: 0;width: 100%;">
+		<div class="footer"> &copy; 2021 Copyright:
+	      <a href="Controller?page=index"> Tiazon.com</a>
+	    </div>
+	</footer>
 
 
 </body>
